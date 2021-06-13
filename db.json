@@ -2,15 +2,15 @@
  "records": [
    {
     "id": 1,
-    "title": "Record title Nr 1",
-    "name" : "Record name Nr 1",
-    "amount" : 5
+    "title": "IN239243897934",
+    "name" : "MSCI EM",
+    "amount" : 52
    },
    {
     "id" : 2,
-    "title": "Record title Nr 2",
-    "name" : "Record name Nr 2",
-    "amount" : 2
+    "title": "IN234987937",
+    "name" : "MSCI World",
+    "amount" : 223
    }
  ] 
 }
