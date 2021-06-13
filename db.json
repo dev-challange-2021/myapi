@@ -1,11 +1,13 @@
 {
  "records": [
    {
+    "id": 1,
     "title": "Record title Nr 1",
     "name" : "Record name Nr 1",
     "amount" : 5
    },
    {
+    "id" : 2,
     "title": "Record title Nr 2",
     "name" : "Record name Nr 2",
     "amount" : 2
