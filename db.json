@@ -6,28 +6,28 @@
           isin: "IN239243897",
           name: "MSCI EM",
           amount: 52
-        },
+        }
         {
           id: 2,
           date: "01.03.2021",
           isin: "IN234987937",
           name: "MSCI World",
           amount: 223
-        },
+        }
         {
           id: 3,
           date: "01.02.2021",
           isin: "IN234987937",
           name: "MSCI World",
           amount: 523
-        },
+        }
         {
           id: 4,
           date: "01.12.2021",
           isin: "IN234987937",
           name: "MSCI EM",
           amount: 23
-        },
+        }
         {
           id: 5,
           date: "01.02.2021",
