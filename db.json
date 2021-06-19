@@ -3,35 +3,35 @@
         {
           id: 1,
           date: "01.09.2021",
-          title: "IN239243897",
+          isin: "IN239243897",
           name: "MSCI EM",
           amount: 52
         },
         {
           id: 2,
           date: "01.03.2021",
-          title: "IN234987937",
+          isin: "IN234987937",
           name: "MSCI World",
           amount: 223
         },
         {
           id: 3,
           date: "01.02.2021",
-          title: "IN234987937",
+          isin: "IN234987937",
           name: "MSCI World",
           amount: 523
         },
         {
           id: 4,
           date: "01.12.2021",
-          title: "IN234987937",
+          isin: "IN234987937",
           name: "MSCI EM",
           amount: 23
         },
         {
           id: 5,
           date: "01.02.2021",
-          title: "IN234987937",
+          isin: "IN234987937",
           name: "MSCI EM",
           amount: 123
         }
