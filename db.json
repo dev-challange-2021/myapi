@@ -1,5 +1,5 @@
 {
- "tabledata": [
+ "tableData": [
         {
           "id": 1,
           "date": "01.09.2021",
@@ -15,7 +15,7 @@
           "amount": 223
         },
         {
-          "id:" 3,
+          "id": 3,
           "date": "01.02.2021",
           "isin": "IN234987937",
           "name": "MSCI World",
