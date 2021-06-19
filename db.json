@@ -34,6 +34,6 @@
           title: "IN234987937",
           name: "MSCI EM",
           amount: 123,
-        },
-      ],
+        }
+      ]
 }
